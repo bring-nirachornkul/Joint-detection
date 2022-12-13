@@ -1,2 +1,4 @@
 # Joint-detection
-This code is copied some part from https://www.youtube.com/watch?v=06TE_U21FK4
+
+
+This code is from <link rel="stylesheet" href="https://www.youtube.com/watch?v=06TE_U21FK4">Nicholas Renotte</link>
