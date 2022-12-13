@@ -12,8 +12,6 @@ Step 1 : Detect the body's joints
 
 There are 32 joints in our body that can be detect via 
 
-[![Detect-the-joints.png](https://i.postimg.cc/P53RrN1j/Detect-the-joints.png)](https://postimg.cc/CR8NchvP)
-
 Step 2 : Detect the degree's angle of the elbow
 
 [![Screenshot-2022-12-12-at-8-22-58-PM.png](https://i.postimg.cc/8cM27DNb/Screenshot-2022-12-12-at-8-22-58-PM.png)](https://postimg.cc/646jPk77)
